@@ -2,7 +2,7 @@
 
 An interactive Excel dashboard that gives a real-time style overview of UPI transactions: volume, amount, success and fraud rates, and how spending varies by category, bank, state, hour, gender and age group.
 
-![Dashboard Preview](dashboard.png)
+
 
 ## Project Overview
 
@@ -57,8 +57,7 @@ An interactive Excel dashboard that gives a real-time style overview of UPI tran
 |---|---|
 | `dashboard.png` | Dashboard screenshot |
 | `REPORT.md` | Detailed analysis report |
-| Excel file | [Add Google Drive link here] (raw data is too large for GitHub) |
-
+| Excel file |https://docs.google.com/spreadsheets/d/1XG8GUIhnHPTFFYD1Ad7ZmF2y-GSHqDgW/edit?usp=drive_link&ouid=103701396880348080053&rtpof=true&sd=true
 ## Author
 
 **Vivek Patidar**
